@@ -4,6 +4,10 @@ This repository contains a selection of data analysis and data science focused p
 
 # Contents
 
+## Infrasturcture and cloud
+*[Deploying an ML model with Shiny and AWS](https://github.com/Jamie3213/shiny-model-deployment): in this project we create an ML model using R, then deploy the model to a Shiny Server running in Amazon Web Services.
+
+
 ## Data cleansing and manipulation
 
 ## Data analysis and visualisation
