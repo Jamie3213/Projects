@@ -12,4 +12,4 @@ This repository contains a selection of data analysis and data science focused p
 * [Text mining and sentiment analysis](https://github.com/Jamie3213/tolstoy-text-analysis): in this project we analyse of "The Kingdom of God is Within You" by Leo Tolstoy using tools from the tidyverse.
 
 ## Machine learning and forecasting
-* Climate data forecasting: 
+* [Climate data forecasting](https://github.com/Jamie3213/climate-time-series-analysis): 
