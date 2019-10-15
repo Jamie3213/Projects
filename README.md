@@ -10,4 +10,4 @@ This repository contains a selection of data analysis and data science focused p
 
 ## Tidy Tuesday
 
-* 15 October 2019 - Big MPG
+* [15 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-15) - Car Fuel Economy
