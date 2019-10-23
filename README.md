@@ -6,6 +6,8 @@ This repository contains a selection of data analysis and data science focused p
 
 * [Deploying an ML model with Shiny and AWS](https://github.com/Jamie3213/shiny-model-deployment): in this project we create an ML model using R, then deploy the model to a Shiny Server running in Amazon Web Services.
 
+* [Time series forecasting](https://github.com/Jamie3213/traffic-time-series): in this project we use ARIMA modelling to create a forecasting model for hourly traffic data.
+
 
 ## Tidy Tuesday
 
