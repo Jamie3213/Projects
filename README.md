@@ -13,4 +13,4 @@ This repository contains a selection of data analysis and data science focused p
 
 * [15 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-15) - Car Fuel Economy
 
-* [22 October 2019]() - Horror Movie Metadata
+* [22 October 2019](https://github.com/Jamie3213/TidyTuesday2019-22-10) - Horror Movie Metadata
