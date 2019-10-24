@@ -8,8 +8,6 @@ This repository contains a selection of data analysis and data science focused p
 
 * [Time series forecasting](https://github.com/Jamie3213/traffic-time-series): in this project we use ARIMA modelling to create a forecasting model for hourly traffic data.
 
-* [Logistic regression](): in this project we use logistic regression to predict whether or not a patient has heart disease.
-
 
 ## Tidy Tuesday
 
