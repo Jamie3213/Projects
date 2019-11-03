@@ -11,6 +11,7 @@ This repository contains a selection of data analysis and data science focused p
 * [Deploying an ML model](https://github.com/Jamie3213/shiny-model-deployment): in this project we create a simple machine learning model and deploy it to a Shiny Server running in Amazon Web Services, using Amazon S3 to store our model.
 
 
+
 ## [\#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 
 * [15 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-15) - Car Fuel Economy
