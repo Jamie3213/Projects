@@ -21,3 +21,5 @@ This repository contains a selection of data analysis and data science focused p
 * [22 October 2019](https://github.com/Jamie3213/TidyTuesday2019-22-10) - Horror Movie Metadata
 
 * [29 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-29) - NYC Squirrel Census
+
+* [05 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-05) - Bike & Walk Commutes
