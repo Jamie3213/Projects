@@ -8,6 +8,8 @@ This repository contains a selection of data analysis and data science focused p
 
 * [Time series forecasting](https://github.com/Jamie3213/traffic-time-series): in this project we use ARIMA modelling to create a forecasting model for hourly traffic data.
 
+* [Tolstoy text analysis](https://github.com/Jamie3213/tolstoy-text-analysis): in this project we use the tidytext package to explore Leo Tolstoy's "The Kingdom of God is Within You".
+
 * [Data wrangling and visualisation](https://github.com/Jamie3213/available-seat-miles): in this short project we use the ```nycflights13``` data set to calculate the available seat miles per airline and produce a waffle visualisation.
 
 * [Deploying an ML model](https://github.com/Jamie3213/shiny-model-deployment): in this project we create a simple machine learning model and deploy it to a Shiny Server running in Amazon Web Services, using Amazon S3 to store our model.
