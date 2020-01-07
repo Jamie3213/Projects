@@ -26,3 +26,5 @@ This repository contains a selection of data analysis and data science focused p
 * [05 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-05) - Bike & Walk Commutes
 
 * [19 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-19) - NZ Bird of the Year
+
+* 07 January 2020 - Australia Fires
