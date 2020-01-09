@@ -27,4 +27,4 @@ This repository contains a selection of data analysis and data science focused p
 
 * [19 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-19) - NZ Bird of the Year
 
-* 07 January 2020 - Australia Fires
+* [07 January 2020](https://github.com/Jamie3213/TidyTuesday2020-01-07) - Australia Fires
