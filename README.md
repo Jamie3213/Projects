@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains a selection of data analysis and data science focused projects in R.
+Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 # Contents
 
