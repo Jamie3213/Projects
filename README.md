@@ -6,7 +6,9 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): using Elasticsearch to encode spatial coordinates with census block level information.
 
-* Star Wars API wrapper
+* Star Wars API wrapper: using Python to create an object-oriented package to wrap the SWAPI Star Wars REST API.
+
+* What3Words: using Python and PostgreSQL to create a miniature What3Words clone.
 
 ## R
 
