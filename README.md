@@ -10,6 +10,8 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * What3Words: using Python and PostgreSQL to create a miniature What3Words clone.
 
+* Flask and Azure App Service: using Python we make the world's simplest REST API and deploy into Azure App Service.
+
 ## R
 
 * [Classification](https://github.com/Jamie3213/heart-disease-classification): using multiple logistic regression and decision trees to predict whether a patient has heart disease.
