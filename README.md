@@ -10,7 +10,7 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * What3Words: using Python and PostgreSQL to create a miniature What3Words clone.
 
-* Flask and Azure App Service: using Python we make the world's simplest REST API and deploy into Azure App Service.
+* Flask and Azure App Service: using Python we make the world's simplest REST API, Dockerise it and deploy into Azure App Service.
 
 ## R
 
