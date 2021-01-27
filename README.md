@@ -4,7 +4,7 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 ## Python
 
-* [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): in this project we use Elasticsearch and Python to encode spatial coordinates with census block level information.
+* [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): in this project we use Elasticsearch to encode spatial coordinates with census block level information.
 
 * Star Wars API wrapper
 
