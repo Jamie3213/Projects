@@ -2,9 +2,10 @@
 
 Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
-# Content
 ## Data engineering
-*
+
+* [Reverse geo-coding with Elasticsearch](https://github.com/Jamie3213/reverse_geocoding): in this project we use Elasticsearch and Python to encode spatial coordinates with census block level information.
+
 ## Machine learning
 
 * [Classification](https://github.com/Jamie3213/heart-disease-classification): in this project we use multiple logistic regression and decision trees to predict whether a patient has heart disease.
@@ -18,18 +19,16 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 * [Deploying an ML model](https://github.com/Jamie3213/shiny-model-deployment): in this project we create a simple machine learning model and deploy it to a Shiny Server running in Amazon Web Services, using Amazon S3 to store our model.
 
 
-## [\#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+## Data visualisation
 
-An archive of old TidyTuesday visualisations:
+* [Car Fuel Economy](https://github.com/Jamie3213/TidyTuesday2019-10-15)
 
-* [15 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-15) - Car Fuel Economy
+* [NYC Squirrel Census](https://github.com/Jamie3213/TidyTuesday2019-10-29)
 
-* [22 October 2019](https://github.com/Jamie3213/TidyTuesday2019-22-10) - Horror Movie Metadata
+* [Bike & Walk Commutes](https://github.com/Jamie3213/TidyTuesday2019-11-05)
 
-* [29 October 2019](https://github.com/Jamie3213/TidyTuesday2019-10-29) - NYC Squirrel Census
+* [NZ Bird of the Year](https://github.com/Jamie3213/TidyTuesday2019-11-19)
 
-* [05 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-05) - Bike & Walk Commutes
+* [Australia Fires](https://github.com/Jamie3213/TidyTuesday2020-01-07)
 
-* [19 November 2019](https://github.com/Jamie3213/TidyTuesday2019-11-19) - NZ Bird of the Year
-
-* [07 January 2020](https://github.com/Jamie3213/TidyTuesday2020-01-07) - Australia Fires
+* [Available Air Seat Miles](https://github.com/Jamie3213/available-seat-miles)
