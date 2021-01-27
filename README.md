@@ -20,14 +20,14 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 ### Data visualisation
 
-* [Car Fuel Economy](https://github.com/Jamie3213/TidyTuesday2019-10-15)
+* [Car fuel economy](https://github.com/Jamie3213/TidyTuesday2019-10-15)
 
-* [NYC Squirrel Census](https://github.com/Jamie3213/TidyTuesday2019-10-29)
+* [NYC squirrel census](https://github.com/Jamie3213/TidyTuesday2019-10-29)
 
-* [Bike & Walk Commutes](https://github.com/Jamie3213/TidyTuesday2019-11-05)
+* [Bike & walk commutes](https://github.com/Jamie3213/TidyTuesday2019-11-05)
 
-* [NZ Bird of the Year](https://github.com/Jamie3213/TidyTuesday2019-11-19)
+* [New Zealand bird of the year](https://github.com/Jamie3213/TidyTuesday2019-11-19)
 
-* [Australia Fires](https://github.com/Jamie3213/TidyTuesday2020-01-07)
+* [Australia fires](https://github.com/Jamie3213/TidyTuesday2020-01-07)
 
-* [Available Air Seat Miles](https://github.com/Jamie3213/available-seat-miles)
+* [Available air seat miles](https://github.com/Jamie3213/available-seat-miles)
