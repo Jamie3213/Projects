@@ -22,8 +22,6 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * [Car fuel economy](https://github.com/Jamie3213/TidyTuesday2019-10-15)
 
-* [NYC squirrel census](https://github.com/Jamie3213/TidyTuesday2019-10-29)
-
 * [Bike & walk commutes](https://github.com/Jamie3213/TidyTuesday2019-11-05)
 
 * [New Zealand bird of the year](https://github.com/Jamie3213/TidyTuesday2019-11-19)
