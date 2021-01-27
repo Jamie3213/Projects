@@ -14,7 +14,7 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * [Time series forecasting](https://github.com/Jamie3213/traffic-time-series): in this project we use ARIMA modelling to create a forecasting model for hourly traffic data.
 
-* [Easy model deployment with AWS](https://github.com/Jamie3213/shiny-model-deployment): in this project we create a simple machine learning model and deploy it to a Shiny Server running in Amazon Web Services, using Amazon S3 to store our model.
+* [Easy model deployment with AWS](https://github.com/Jamie3213/shiny-model-deployment): in this project we use Shiny and AWS to easily deploy a machine learning model.
 
 * [Text analysis](https://github.com/Jamie3213/tolstoy-text-analysis): in this project we use the tidytext package to explore and visualise text data.
 
