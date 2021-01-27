@@ -29,3 +29,5 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 * [Australia fires](https://github.com/Jamie3213/TidyTuesday2020-01-07)
 
 * [Available air seat miles](https://github.com/Jamie3213/available-seat-miles)
+
+* [Horror Movie Metadata](https://github.com/Jamie3213/horror_movie_metadata)
