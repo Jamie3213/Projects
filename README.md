@@ -18,7 +18,7 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * [Text analysis](https://github.com/Jamie3213/tolstoy-text-analysis): using the tidytext package to explore and visualise text data.
 
-### Data visualisation
+## Data visualisation
 
 * [Car fuel economy](https://github.com/Jamie3213/TidyTuesday2019-10-15)
 
