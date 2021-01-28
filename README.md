@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to my GitHub, below is a variety of personal, data-focused projects.
+Welcome to my GitHub, below is a variety of data-focused projects.
 
 ## Python
 
