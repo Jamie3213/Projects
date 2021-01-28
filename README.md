@@ -2,15 +2,17 @@
 
 Welcome to my GitHub, below is a variety of data-focused projects.
 
+
 ## Python
 
 * [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): using Elasticsearch to encode spatial coordinates with census block level information.
 
-* Star Wars API wrapper: using Python to create an object-oriented package to wrap the SWAPI Star Wars REST API.
+* Flask and Azure App Service: using Python we make the world's simplest REST API, Dockerise it and deploy into Azure App Service.
 
 * [What3Words](https://github.com/Jamie3213/what3words): using Python, PostgreSQL, and PostGIS to create a miniature What3Words clone.
 
-* Flask and Azure App Service: using Python we make the world's simplest REST API, Dockerise it and deploy into Azure App Service.
+* Star Wars API wrapper: using Python to create an object-oriented package to wrap the SWAPI Star Wars REST API.
+
 
 ## R
 
@@ -21,6 +23,7 @@ Welcome to my GitHub, below is a variety of data-focused projects.
 * [Easy model deployment with AWS](https://github.com/Jamie3213/shiny-model-deployment): using Shiny and AWS to easily deploy a machine learning model.
 
 * [Text analysis](https://github.com/Jamie3213/tolstoy-text-analysis): using the tidytext package to explore and visualise text data.
+
 
 ## Data visualisation
 
