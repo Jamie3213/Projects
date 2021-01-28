@@ -7,16 +7,16 @@ Welcome to my GitHub, below is a variety of data-focused projects.
 
 * [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): using Elasticsearch to encode spatial coordinates with census block level information.
 
-* Flask and Azure App Service: using Python we make a simple REST API, Dockerise it and deploy to Azure App Service.
+* Azure App Service API: using Python we make a simple Flask REST API, Dockerise it and deploy to Azure App Service.
 
 * [What3Words](https://github.com/Jamie3213/what3words): using Python, PostgreSQL, and PostGIS to create a miniature What3Words clone.
 
-* Star Wars API wrapper: using Python to create an object-oriented wrapper around the SWAPI Star Wars REST API.
+* Star Wars API package: using Python to create a wrapper around the SWAPI Star Wars REST API.
 
 
 ## R
 
-* [Classification](https://github.com/Jamie3213/heart-disease-classification): using multiple logistic regression and decision trees to predict whether a patient has heart disease.
+* [Classification](https://github.com/Jamie3213/heart-disease-classification): using multiple logistic regression and decision trees to predict heart disease.
 
 * [Time series forecasting](https://github.com/Jamie3213/traffic-time-series): using ARIMA modelling to create a forecasting model for hourly traffic data.
 
