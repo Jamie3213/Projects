@@ -8,7 +8,7 @@ Welcome to my GitHub, below is a variety of personal, data-focused projects.
 
 * Star Wars API wrapper: using Python to create an object-oriented package to wrap the SWAPI Star Wars REST API.
 
-* [What3Words](https://github.com/Jamie3213/what3words): using Python and PostgreSQL, and PostGIS to create a miniature What3Words clone.
+* [What3Words](https://github.com/Jamie3213/what3words): using Python, PostgreSQL, and PostGIS to create a miniature What3Words clone.
 
 * Flask and Azure App Service: using Python we make the world's simplest REST API, Dockerise it and deploy into Azure App Service.
 
