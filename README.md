@@ -7,11 +7,11 @@ Welcome to my GitHub, below is a variety of data-focused projects.
 
 * [Reverse geo-coding](https://github.com/Jamie3213/reverse_geocoding): using Elasticsearch to encode spatial coordinates with census block level information.
 
-* Flask and Azure App Service: using Python we make the world's simplest REST API, Dockerise it and deploy into Azure App Service.
+* Flask and Azure App Service: using Python we make a simple REST API, Dockerise it and deploy to Azure App Service.
 
 * [What3Words](https://github.com/Jamie3213/what3words): using Python, PostgreSQL, and PostGIS to create a miniature What3Words clone.
 
-* Star Wars API wrapper: using Python to create an object-oriented package to wrap the SWAPI Star Wars REST API.
+* Star Wars API wrapper: using Python to create an object-oriented wrapper around the SWAPI Star Wars REST API.
 
 
 ## R
